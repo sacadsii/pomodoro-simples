@@ -7,7 +7,9 @@ Basta executar o script que ele iniciara a contagem, após a primeira volta de 2
 No terminal ele ira printar os minutos passados, vc podera ver quantos minutos da volta ja foram gastos, caso desejar
 
 para baixar
-git clone https://github.com/sacadsi/Pomodoro-Simples
+git clone https://github.com/sacadsi/pomodoro-simples
 
 Para executar o arquivo vc pode deve estar napasta do script e digitar
 bash pomodoro.sh ou ./pomodoro.sh
+
+(Não funciona no aplicativo Termux, só nos computadores com gnu/linux por enquanto)

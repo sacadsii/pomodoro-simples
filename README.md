@@ -1,5 +1,5 @@
 # Pomodoro-Simples
-um script para estudar utilizando a tecnica do pomodoro
+um programa simples para estudar utilizando a tecnica do pomodoro, feito em shellscript
 
 https://pt.wikipedia.org/wiki/T%C3%A9cnica_pomodoro
 

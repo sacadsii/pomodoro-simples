@@ -6,8 +6,7 @@ https://pt.wikipedia.org/wiki/T%C3%A9cnica_pomodoro < se quiser saber o que é p
 Basta executar o script que ele iniciara a contagem, caso ele não receba nenhum argumento tomara como 25 minutos por padrão cada volta. Após a primeira volta de 25 minutos ele te mostrara uma notificação avisando para descansar, depois de 5 minutos ele recomeça uma volta novamente e quando acabar as 4 voltas ele te notifica para parar por 30 minutos.  
 Enquanto ele esta em execussão, no terminal, ele ira printar os minutos passados e assim voce podera ver quantos minutos da volta ja foram gastos, caso desejar.
 
-Se voce deseja mudar a quantidade de minutos em cada volta, ao chamar o arquivo, digite o numero de minutos ao lado...  
-Exemplo, se vc quer 17 minutos e não 25 minutos por volta, digite:  
+Se voce deseja mudar a quantidade de minutos em cada volta, ao chamar o arquivo, digite o numero de minutos ao lado... Exemplo, se vc quer 17 minutos e não 25 minutos por volta, digite:  
 bash pomodoro.sh 17
 
 Para baixar do github, digite no seu terminal:  

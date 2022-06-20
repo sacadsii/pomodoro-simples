@@ -10,7 +10,7 @@ Se voce deseja mudar a quantidade de minutos em cada volta, ao chamar o arquivo,
 bash pomodoro.sh 17
 
 Para baixar do github, digite no seu terminal:  
-git clone https://github.com/sacadsi/pomodoro-simples  
+git clone https://github.com/sacadsii/pomodoro-simples  
 (ou utilize o gerenciador de downloads do seu navegador mesmo)
 
 Para executar o arquivo vc deve estar na pasta do script e digitar:  
